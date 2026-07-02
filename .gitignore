@@ -4,3 +4,4 @@ __pycache__/
 data/raw/
 *.parquet
 .DS_Store
+venv/
