@@ -101,8 +101,4 @@ LIMIT 10;
 
 ## Autor
 
-<<<<<<< HEAD
-Alexis Dehesa — [LinkedIn](https://linkedin.com/in/TU-USUARIO-AQUI) · [GitHub](https://github.com/Alexisboop13)
-=======
 Alexis Dehesa — [LinkedIn](https://www.linkedin.com/in/alexis-ismael-dehesa-guzman/) · [GitHub](https://github.com/Alexisboop13)
->>>>>>> ea4f450e74d15d1029067904814e0226f7abc341
