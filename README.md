@@ -101,4 +101,4 @@ LIMIT 10;
 
 ## Autor
 
-Alexis Dehesa — [LinkedIn](#) · [GitHub](https://github.com/Alexisboop13)
+Alexis Dehesa — [LinkedIn](https://www.linkedin.com/in/alexis-ismael-dehesa-guzman/) · [GitHub](https://github.com/Alexisboop13)
