@@ -5,3 +5,4 @@ data/raw/
 *.parquet
 .DS_Store
 venv/
+logs/
