@@ -102,3 +102,7 @@ LIMIT 10;
 ## Autor
 
 Alexis Dehesa — [LinkedIn](https://www.linkedin.com/in/alexis-ismael-dehesa-guzman/) · [GitHub](https://github.com/Alexisboop13)
+
+## Evidencia de ejecución
+
+![DAG ejecutándose exitosamente](docs/dag_success.png)
